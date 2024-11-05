@@ -28,3 +28,45 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bijoy-chandra&" alt="bijoy-chandra" /></p>
 
+## Skills
+- IT Security
+- Intrusion Detection
+- SIEM Implementation and Log Analysis      
+- Network Traffic Monitoring and Attack Detection 
+- Incident Response Planning and Execution 
+- Vulnerability Assessment and Penetration Testing
+
+## Operating System
+<div>
+    <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logoSize=150*250" />
+    <img src="https://img.shields.io/badge/Ubuntu-red?style=for-the-badge&logoSize=150*250" />
+    <img src="https://img.shields.io/badge/Windows-blue?style=for-the-badge&logoSize=150*250" />
+</div>
+
+## Tools
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
+
+### Endpoint Detection and Response
+<div>
+    <img src="https://img.shields.io/badge/Crowdstrike-red?style=for-the-badge&logoSize=150*250" />
+    <img src="https://img.shields.io/badge/Cisco%20Secure%20Endpoint-violate?style=for-the-badge&logoSize=150*250" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/wazuh-DarkCyan?style=for-the-badge&logoSize=150*250&color=%23008080" />
+</div>
+
+### Firewalls
+<div>
+    <img src="https://img.shields.io/badge/Cisco%20Firewall-%2300008B?style=for-the-badge&logoSize=150*250&color=%2300008B" />
+    <img src="https://img.shields.io/badge/Paloalto-%23D2691E?style=for-the-badge&logoSize=150*250&color=%23D2691E" />
+    <img src="https://img.shields.io/badge/WAF%20(F5)-%2348D1CC?style=for-the-badge&logoSize=150*250&color=%2348D1CC" />
+</div>
+
