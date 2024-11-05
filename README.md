@@ -70,3 +70,39 @@
     <img src="https://img.shields.io/badge/WAF%20(F5)-%2348D1CC?style=for-the-badge&logoSize=150*250&color=%2348D1CC" />
 </div>
 
+### Vulnerability Assessment Tools
+<div>
+    <img src="https://img.shields.io/badge/Amass-%238B008B?style=for-the-badge&logoSize=150*250&color=%238B008B" />
+    <img src="https://img.shields.io/badge/Subfinder-%2332CD32?style=for-the-badge&logoSize=150*250&color=%2332CD32" />
+    <img src="https://img.shields.io/badge/Assetfinder-%230000FF?style=for-the-badge&logoSize=150*250&color=%230000FF" />
+    <img src="https://img.shields.io/badge/Sublister-%23BC8F8F?style=for-the-badge&logoSize=150*250&color=%23BC8F8F" />
+    <img src="https://img.shields.io/badge/Subbrute-%23B8860B?style=for-the-badge&logoSize=150*250&color=%23B8860B" />
+    <img src="https://img.shields.io/badge/Gau-%23A52A2A?style=for-the-badge&logoSize=150*250&color=%23A52A2A" />
+    <img src="https://img.shields.io/badge/Katana-%23708090?style=for-the-badge&logoSize=150*250&color=%23708090" />
+    <img src="https://img.shields.io/badge/GF-%23000000?style=for-the-badge&logoSize=150*250&color=%23000000" />
+    <img src="https://img.shields.io/badge/Gospider-%23800000?style=for-the-badge&logoSize=150*250&color=%23800000" />
+    <img src="https://img.shields.io/badge/Paramspider-%237B68EE?style=for-the-badge&logoSize=150*250&color=%237B68EE" />
+    <img src="https://img.shields.io/badge/ffuf-%231E90FF?style=for-the-badge&logoSize=150*250&color=%231E90FF" />
+    <img src="https://img.shields.io/badge/qsreplace-%234682B4?style=for-the-badge&logoSize=150*250&color=%231E90FF" />
+    <img src="https://img.shields.io/badge/feroxbuster-%2300FFFF?style=for-the-badge&logoSize=150*250&color=%2300FFFF" />
+    <img src="https://img.shields.io/badge/dirbuster-%23228B22?style=for-the-badge&logoSize=150*250&color=%23228B22" />
+    <img src="https://img.shields.io/badge/wafoof-%238B008B?style=for-the-badge&logoSize=150*250&color=%238B008B" />
+    <img src="https://img.shields.io/badge/naabu-%23FF6347?style=for-the-badge&logoSize=150*250&color=%23FF6347" />
+    <img src="https://img.shields.io/badge/Arjun-%23FFA500?style=for-the-badge&logoSize=150*250&color=%23FFA500" />
+    <img src="https://img.shields.io/badge/Subzy-%23BDB76B?style=for-the-badge&logoSize=150*250&color=%23BDB76B" />
+    <img src="https://img.shields.io/badge/sub404-%23DC143C?style=for-the-badge&logoSize=150*250&color=%23DC143C" />
+    <img src="https://img.shields.io/badge/subjack-%23663399?style=for-the-badge&logoSize=150*250&color=%23663399" />
+    <img src="https://img.shields.io/badge/sqlmap-%238B0000?style=for-the-badge&logoSize=150*250&color=%238B0000" />
+    <img src="https://img.shields.io/badge/xsstrike-%2300008B?style=for-the-badge&logoSize=150*250&color=%2300008B" />
+    <img src="https://img.shields.io/badge/xsscon-%23800000?style=for-the-badge&logoSize=150*250&color=%23800000" />
+    <img src="https://img.shields.io/badge/dalfox-%23000000?style=for-the-badge&logoSize=150*250&color=%23000000" />
+    <img src="https://img.shields.io/badge/nuclei-%238B0000?style=for-the-badge&logoSize=150*250&color=%238B0000" />
+    <img src="https://img.shields.io/badge/headi-%23FFA500?style=for-the-badge&logoSize=150*250&color=%23FFA500" />
+    <img src="https://img.shields.io/badge/Burpsuite-%234B0082?style=for-the-badge&logoSize=150*250&color=%234B0082" />
+    <img src="https://img.shields.io/badge/Nessus-%23006400?style=for-the-badge&logoSize=150*250&color=%23006400" />
+    <img src="https://img.shields.io/badge/OWASP%20ZAP-%23191970?style=for-the-badge&logoSize=150*250&color=%23191970" />
+    <img src="https://img.shields.io/badge/Metasploit-%23800000?style=for-the-badge&logoSize=150*250&color=%23800000" />
+    <img src="https://img.shields.io/badge/nmap-%23000000?style=for-the-badge&logoSize=150*250&color=%23000000" />
+    <img src="https://img.shields.io/badge/netcat-%2300008B?style=for-the-badge&logoSize=150*250&color=%2300008B" />
+    
+</div>
