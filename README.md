@@ -24,11 +24,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bijoy-chandra&show_icons=true&locale=en&layout=compact" alt="bijoy-chandra" /></p>
 
+<p><img src="https://tryhackme-badges.s3.amazonaws.com/bijoy0.png" alt="Your Image Badge" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bijoy-chandra&show_icons=true&locale=en" alt="bijoy-chandra" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bijoy-chandra&" alt="bijoy-chandra" /></p>
 
-<p><img src="https://tryhackme-badges.s3.amazonaws.com/bijoy0.png" alt="Your Image Badge" /></p>
 
 ## Skills
 - IT Security
