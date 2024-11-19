@@ -52,6 +52,8 @@
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/nmap-%23000000?style=for-the-badge&logoSize=150*250&color=%23000000" />
+    <img src="https://img.shields.io/badge/netcat-%2300008B?style=for-the-badge&logoSize=150*250&color=%2300008B" />
 </div>
 
 ### Endpoint Detection and Response
@@ -104,8 +106,6 @@
     <img src="https://img.shields.io/badge/Nessus-%23006400?style=for-the-badge&logoSize=150*250&color=%23006400" />
     <img src="https://img.shields.io/badge/OWASP%20ZAP-%23191970?style=for-the-badge&logoSize=150*250&color=%23191970" />
     <img src="https://img.shields.io/badge/Metasploit-%23800000?style=for-the-badge&logoSize=150*250&color=%23800000" />
-    <img src="https://img.shields.io/badge/nmap-%23000000?style=for-the-badge&logoSize=150*250&color=%23000000" />
-    <img src="https://img.shields.io/badge/netcat-%2300008B?style=for-the-badge&logoSize=150*250&color=%2300008B" />
     
 </div>
 
