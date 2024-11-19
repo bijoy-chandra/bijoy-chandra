@@ -24,7 +24,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bijoy-chandra&show_icons=true&locale=en&layout=compact" alt="bijoy-chandra" /></p>
 
-<p><img src="https://tryhackme-badges.s3.amazonaws.com/bijoy0.png" alt="Your Image Badge" /></p>
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/bijoy0.png?updated=1)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bijoy-chandra&show_icons=true&locale=en" alt="bijoy-chandra" /></p>
 
