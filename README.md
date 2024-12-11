@@ -38,6 +38,13 @@
 - Incident Response Planning and Execution 
 - Vulnerability Assessment and Penetration Testing
 
+### Soft Skills
+- Communication
+- Attention to Details
+- Problem Solving
+- Critical thinking
+- Team Collaboration
+
 ## Operating System
 <div>
     <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logoSize=150*250" />
