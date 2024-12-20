@@ -28,8 +28,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bijoy-chandra&show_icons=true&locale=en" alt="bijoy-chandra" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bijoy-chandra&theme=dark&card_width=450)](https://git.io/streak-stats)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bijoy-chandra&" alt="bijoy-chandra" /></p>
 
 
 ## Skills
