@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Bijoy Chandra Karmakar</h1>
 <h3 align="center">A passionate Cyber Security Analyst from Bangladesh</h3>
-<img align="right" alt="Hacking" width="400" src="https://64.media.tumblr.com/722fb07f13764fb24e8b3739d20c2c9c/ff7b7fd2c7453fa1-ff/s1280x1920/03f3388017974120a109da5a6c1df75b57c6dcf5.gifv">
+<img align="right" alt="Hacking" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajJzM3VvaGtldzVlZTI2YWNzaHVtZ3duOGt1ZGt2dXpqMnFxY2JuZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eCqFYAVjjDksg/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bijoy-chandra&label=Profile%20views&color=0e75b6&style=flat" alt="bijoy-chandra" /> </p>
 
