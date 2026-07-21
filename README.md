@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Wazuh SOAR Integration**
 
-- 🌱 I’m currently learning **Ethical Hacking**
+- 🌱 I’m currently learning **Ethical Hacking**, **Threat Hunting** **Incident Response**
 
-- 💬 Ask me about **Web Application Security, Network Security**
+- 💬 Ask me about **Web Application Security, Network Security, Threat Hunting, Incident Response**
 
 - 📫 How to reach me **bijoy.chandra.cyber@gmail.com**
 
