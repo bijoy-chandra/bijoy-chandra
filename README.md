@@ -29,19 +29,15 @@
 
 
 ## Skills
-- IT Security
-- Intrusion Detection
-- SIEM Implementation and Log Analysis      
-- Network Traffic Monitoring and Attack Detection 
-- Incident Response Planning and Execution 
-- Vulnerability Assessment and Penetration Testing
+
+### Technical Skills
+SOC Analyst | Log Analysis | Network Security | Vulnerability Assessment & Penetration Testing | Intrusion Detection | Incident Response | Threat Hunting | Detection Engineering
+
+### Security Tools
+Burp Suite | Nessus | OWASP ZAP | EDR | XDR | SIEM | Wireshark | NMAP | Metasploit | Netcat | Wazuh | Splunk | Microsoft Sentinel | Crowdstrike | Cisco AMP | 
 
 ### Soft Skills
-- Communication
-- Attention to Details
-- Problem Solving
-- Critical thinking
-- Team Collaboration
+Communication | Attention to Details | Problem Solving | Critical thinking | Team Collaboration | Report Writing
 
 ## Operating System
 <div>
